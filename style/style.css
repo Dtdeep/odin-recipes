@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.container{
+    background-color: #e7e9eb;
+    width: 80%;
+    margin: 20px auto;
+    padding: 25px 50px 100px 25px;
+}
+
+.container p{
+    margin: 10px;
+}
+
+a, h1{
+    color: #0071f2;
+}
+
+
+
