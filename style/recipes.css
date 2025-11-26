@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.home-btn{
+    text-decoration: none;
+}
+
+.container{
+    background-color: #e7e9eb;
+    width: 60%;
+    margin: 20px auto;
+    padding: 25px 50px 100px 25px;
+}
+
+div h1{
+   text-align: center;
+   margin-bottom: 25px;
+}
+
+div img{
+    display: block;
+    margin: 25px auto;
+}
+
+div h2{
+    margin: 15px 0px;
+}
+
+ul li, ol li{
+    margin-left: 25px;
+}
+

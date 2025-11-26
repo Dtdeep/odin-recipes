@@ -7,7 +7,7 @@
 
 .container{
     background-color: #e7e9eb;
-    width: 80%;
+    width: 60%;
     margin: 20px auto;
     padding: 25px 50px 100px 25px;
 }
@@ -18,7 +18,15 @@
 
 a, h1{
     color: #0071f2;
+    text-decoration: none;
+
 }
+
+img{
+    display: inline-block;
+    max-width: 650px;
+}
+
 
 
 
